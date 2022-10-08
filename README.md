@@ -4,9 +4,19 @@
 
 ### Tasks
 
+#### Task: 0-bubble_sort.c, 0-O
+Write a function that sorts an array of integers in ascending order using the [Bubble sort](https://alx-intranet.hbtn.io/rltoken/awhP8BhtkGi-lwmMc2-KAw) algorithm
+
+#### Task: 1-insertion_sort_list.c, 1-O
+Write a function that sorts a doubly linked list of integers in ascending order using the [Insertion sort](https://alx-intranet.hbtn.io/rltoken/GocxRKbPdsmERXeOHMCO2w) algorithm
+
+#### Task: 2-selection_sort.c, 2-O
+Write a function that sorts an array of integers in ascending order using the [Selection sort](https://alx-intranet.hbtn.io/rltoken/SEbg0fBEraioQcl-igvUSw) algorithm
+
+#### Task: 3-quick_sort.c, 3-O
+Write a function that sorts an array of integers in ascending order using the [Quick sort](https://alx-intranet.hbtn.io/rltoken/_pBTrH0Xyo4BRmQn4CtnMg) algorithm
+
 #### Task: 
-
-
 
 
 

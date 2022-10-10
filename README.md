@@ -47,8 +47,8 @@ Write a function that sorts a deck of cards.
 * You can assume there is exactly `52` elements in the doubly linked list.
 * You are free to use the sorting algorithm of your choice
 * The deck must be ordered:
-* * From `Ace` to `King`
-* * From `Spades` to `Diamonds`
+	* From `Ace` to `King`
+	* From `Spades` to `Diamonds`
 
 
 #### Data structure and functions for this project:
